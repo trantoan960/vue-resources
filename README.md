@@ -34,7 +34,7 @@ Also, please note that the list below is exhaustive, and the items are listed in
 
 <p align="center">
   <br>
-  <img width="400" src="./assets/vue-roadmap.png" alt="vue roadmap image">
+  <img src="./assets/vue-roadmap.png" alt="vue roadmap image">
   <br>
   <br>
 </p>
